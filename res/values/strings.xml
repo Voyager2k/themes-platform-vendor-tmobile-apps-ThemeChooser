@@ -33,7 +33,7 @@
 
     <string name="dialog_theme_error_title">Theme error</string>
     <string name="dialog_missing_host_density_msg">This theme is missing assets for your device\'s screen resolution.</string>
-    <string name="dialog_missing_theme_package_scope_msg">This theme was improperly compiled and cannot be applied.</string>
+    <string name="dialog_missing_theme_package_scope_msg">This theme was improperly compiled and should not be applied.</string>
     <string name="dialog_apply_anyway_btn">Apply anyway</string>
     <string name="dialog_bummer_btn">Cancel</string>
 </resources>
