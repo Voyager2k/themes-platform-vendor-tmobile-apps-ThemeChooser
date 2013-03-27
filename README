@@ -1,3 +1,5 @@
+Use this repo when building for CyanogenMod.
+
 Simple user interface piece to fit atop the ThemeManager provider.  This
 component is provided as a sample implementation with the bare minimum UI
 pieces to functionally explore the theme engine.
